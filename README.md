@@ -57,6 +57,7 @@ A simple personal note taking app based on Markdown and written in Python
  ```bash
  uv add kivy
  ```
+
  - Install the locked requirements
  ```bash
  uv pip sync requirements.txt
